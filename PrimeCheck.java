@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//This is my first change
 public class PrimeCheck {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
