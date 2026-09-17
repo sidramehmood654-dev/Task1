@@ -1,3 +1,6 @@
+// git config --global user.name "sidramehmood654-dev"
+//git config --global user.email "sidramehmood654@gmail.com"
+
 import java.util.Scanner;
 public class PrimeCheck {
     public static void main(String[] args) {
