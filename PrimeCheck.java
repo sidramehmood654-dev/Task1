@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//This is my first change
 public class PrimeCheck {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -15,6 +14,7 @@ public class PrimeCheck {
             System.out.println(n + " is a prime number");
         } else {
             System.out.println(n + " is not a prime number");
+            System.out.println("Hello world");
         }
     }
 }
